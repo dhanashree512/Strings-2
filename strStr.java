@@ -1,3 +1,8 @@
+/** *
+ * Time Complexity: O(m * n)
+ * Space Complexity: O(1)
+*/
+
 class Solution {
     public int strStr(String haystack, String needle) {
         int m = haystack.length();
